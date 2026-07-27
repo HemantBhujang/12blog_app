@@ -36,4 +36,6 @@
 
 ## 🚀 Live Demo & Local Preview
 
-[text](https://12blog-app.vercel.app/)
+[Click Here!!](https://12blog-app.vercel.app/)
+
+Thanks !!!
