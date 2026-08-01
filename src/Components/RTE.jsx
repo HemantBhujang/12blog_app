@@ -46,7 +46,7 @@ export default function RTE({ name, control, label, defaultValue = "" }) {
                         ) : (
                             <Editor
                                 // apiKey="TINYMCE_API_KEY"
-                                  apiKey={import.meta.env.TINYMCE_API_KEY}
+                                  apiKey={import.meta.env.VITE_TINYMCE_API_KEY}
                                 value={value !== undefined ? value : defaultValue}
                                 onInit={() => setEditorLoaded(true)}
                                 init={{
